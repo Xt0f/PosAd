@@ -50,6 +50,6 @@ Pour vérifier un calcul un onglet permet de retrouver les tables d'addition. Il
 Le choix de la table (le nombre à additionner) se choisit dans la case jaune en haut de page. Les résultats vont jusqu'à 99. Ils se parcourent à l'aide de la molette de la souris ou en faisant défiler la page vers le bas.
 ## Le triangle à calcul
 Le triangle à calcul peut être utilisé surtout si l'addition comporte beaucoup de nombres. Il se positionne à la droite de l'addition posée, dans la marge de droite. Il est ainsi possible de choisir la colonne où l'on veut développer le triangle à calcul. La cellule J4 permet de la sélectionner.
-Aussitôt les nombres de la colonne sont recopiés automatiquement. Sur la droite, les cases jaunes permettent de réaliser les calculs intermédiaires à partir de celui du dessus en ajoutant le nombre de la ligne courante. Ces calculs intermédiaires que l'élève peut noter lui permette d'alléger la mémorisation que lui coûte un calcul long.
+Aussitôt les nombres de la colonne sont recopiés automatiquement. Sur la droite, les cases jaunes permettent de réaliser les calculs intermédiaires à partir de celui du dessus en ajoutant le nombre de la ligne courante. Ces calculs intermédiaires, que l'élève peut noter, lui permette d'alléger la mémorisation que lui coûte un calcul long.
 
 Bien sûr les aides sont facultative dans la résolution.
